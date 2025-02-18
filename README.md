@@ -2,7 +2,6 @@
 
 A sleek and modern admin dashboard UI kit built with React and Tailwind CSS. Features smooth animations, interactive charts, and a fully responsive design.
 
-![Dashboard Screenshot](screenshot.png)
 
 ## Features
 
